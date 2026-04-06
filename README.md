@@ -34,29 +34,16 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AnubhavKiroula&theme=radical&no-frame=true&no-bg=true&margin-w=15&v=1" alt="AnubhavKiroula Trophies" />
-  </a>
-</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <p>
-    <a href="https://github.com/AnubhavKiroula/data-cleaning-openenv">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnubhavKiroula&repo=data-cleaning-openenv&theme=radical&v=1" alt="OpenEnv RL Environment" />
-    </a>
-  </p>
-</div>
+### 📊 [OpenEnv RL Environment](https://github.com/AnubhavKiroula/data-cleaning-openenv)
+A reinforcement learning environment for data cleaning, designed to simulate real-world data processing challenges and learn optimal cleaning policies.
 
-### 🏛️ Library Entry System
+### 🏛️ [Library Entry System](https://github.com/AnubhavKiroula/Smart-Library)
 A hardware-software integrated solution using **Arduino QR scanning**, real-time **database integration**, and a customized **analytics dashboard** to manage library entries efficiently.
 
 ### 📄 Resume Optimization Tools
@@ -67,10 +54,6 @@ Aiding family and peers by creating optimized, ATS-friendly resumes and enhancin
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnubhavKiroula&show_icons=true&hide_border=true&theme=radical&v=1" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavKiroula&layout=compact&hide_border=true&theme=radical&v=1" alt="Top Languages" />
-  <br/>
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnubhavKiroula&hide_border=true&theme=radical" alt="GitHub Streak" />
   <br/>
   <br/>
