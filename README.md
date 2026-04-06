@@ -50,14 +50,14 @@
 
 <div align="center">
   <p>
-    <a href="https://github.com/AnubhavKiroula/Smart-Library">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnubhavKiroula&repo=Smart-Library&theme=radical&v=1" alt="Smart Library" />
-    </a>
     <a href="https://github.com/AnubhavKiroula/data-cleaning-openenv">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnubhavKiroula&repo=data-cleaning-openenv&theme=radical&v=1" alt="OpenEnv RL Environment" />
     </a>
   </p>
 </div>
+
+### 🏛️ Library Entry System
+A hardware-software integrated solution using **Arduino QR scanning**, real-time **database integration**, and a customized **analytics dashboard** to manage library entries efficiently.
 
 ### 📄 Resume Optimization Tools
 Aiding family and peers by creating optimized, ATS-friendly resumes and enhancing their professional digital presence.
