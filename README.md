@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science** with a specialization in **AI/ML**.
+- 🎓 Pursuing **B.Tech in Computer Science** with specialization in **AI/ML**.
 - 🚀 **Aspiring ML/AI Engineer** and a technical contributor in a startup team.
 - 🤝 Actively collaborate with academic faculty for **hardware and product documentation**.
 - 💡 **Passionate about Problem Solving**: Actively participating in tech communities, exploring open-source projects, and continuously building practical applications to sharpen my backend and system design skills.
