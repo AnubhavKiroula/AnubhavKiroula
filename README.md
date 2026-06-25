@@ -91,9 +91,19 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnubhavKiroula&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavKiroula&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnubhavKiroula&hide_border=true&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <br/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AnubhavKiroula&theme=radical&hide_border=true&layout=compact" alt="WakaTime Stats" />
+</div>
+
+<div align="center">
   <h3>🐍 Contribution Graph Snake</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnubhavKiroula/AnubhavKiroula/output/github-contribution-grid-snake-dark.svg">
