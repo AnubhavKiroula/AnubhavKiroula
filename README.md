@@ -137,6 +137,25 @@
 
 ---
 
+## 🏆 Achievements
+
+<table>
+  <tr>
+    <td>🥇</td>
+    <td><b>Meta × PyTorch National Hackathon Finalist</b> — Top 800 of 52,000+ developers nationally; built a PyTorch-based solution for efficient model deployment.</td>
+  </tr>
+  <tr>
+    <td>🎓</td>
+    <td><b>CGPA 9.33/10</b> — Consistently among top performers in B.Tech cohort at Graphic Era Hill University.</td>
+  </tr>
+  <tr>
+    <td>📜</td>
+    <td><b>LLM Engineering & Prompt Engineering Specialization (Udemy)</b> — Large language models, prompt optimization, and AI application development.</td>
+  </tr>
+</table>
+
+---
+
 ## 🌍 Community & Open Source
 
 - 🏛️ Active member of **FOSS Club** — advocating for free and open-source software
