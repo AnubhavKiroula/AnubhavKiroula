@@ -9,11 +9,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science** with specialization in **AI/ML**.
-- 🚀 **Aspiring ML/AI Engineer** and a technical contributor in a startup team.
-- 🤝 Actively collaborate with academic faculty for **hardware and product documentation**.
-- 💡 **Passionate about Problem Solving**: Actively participating in tech communities, exploring open-source projects, and continuously building practical applications to sharpen my backend and system design skills.
-- 🌱 Always eager to learn, explore new AI/ML frameworks, and collaborate on innovative ideas.
+- 🎓 Pursuing **B.Tech in Computer Science (AI/ML specialization)** — 2nd Year
+- 🚀 **Aspiring AI/ML Engineer** with a focus on **reinforcement learning** and **backend systems**
+- 🤝 Active member of **FOSS Club**, contributing to open-source projects & communities
+- 🏆 **Hackathon Finalist** — passionate about building under pressure and shipping fast
+- 📚 Dedicated to **problem solving**, **backend design**, and **collaborative learning**
+- 🌱 Always eager to learn, explore new AI/ML frameworks, and collaborate on innovative ideas
 
 ---
 
