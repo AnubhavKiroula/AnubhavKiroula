@@ -114,6 +114,15 @@
 
 ---
 
+## 🌍 Community & Open Source
+
+- 🏛️ Active member of **FOSS Club** — advocating for free and open-source software
+- 🤝 Contributor to **[AOSSIE](https://gitlab.com/aossie)** and **[FirstContributions](https://github.com/firstcontributions/first-contributions)**
+- 🧑‍🏫 Mentor peers in **resume optimization**, **backend development**, and **open-source onboarding**
+- 💬 Believer in **building in public** and **learning through collaboration**
+
+---
+
 ## 📫 Connect with Me
 
 <div align="center">
