@@ -59,14 +59,32 @@
 
 ## 🚀 Featured Projects
 
-### 📊 [OpenEnv RL Environment](https://github.com/AnubhavKiroula/data-cleaning-openenv)
-A reinforcement learning environment for data cleaning, designed to simulate real-world data processing challenges and learn optimal cleaning policies.
-
-### 🏛️ [Library Entry System](https://github.com/AnubhavKiroula/Smart-Library)
-A hardware-software integrated solution using **Arduino QR scanning**, real-time **database integration**, and a customized **analytics dashboard** to manage library entries efficiently.
-
-### 📄 Resume Optimization Tools
-Aiding family and peers by creating optimized, ATS-friendly resumes and enhancing their professional digital presence.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📚 <a href="https://github.com/AnubhavKiroula/Smart-Library">Smart Library System</a></h3>
+      <p>QR-based library occupancy system with real-time tracking, analytics dashboard, and hardware integration.</p>
+      <p><code>Node.js</code> <code>Flutter</code> <code>PostgreSQL</code> <code>Docker</code> <code>CI/CD</code></p>
+    </td>
+    <td width="50%">
+      <h3>🔐 <a href="https://github.com/AnubhavKiroula/go-auth-service">Go Auth Service</a></h3>
+      <p>Golang backend service with JWT authentication, role-based access control (RBAC), and PostgreSQL integration.</p>
+      <p><code>Go</code> <code>JWT</code> <code>PostgreSQL</code> <code>REST API</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🧠 <a href="https://github.com/AnubhavKiroula/data-cleaning-openenv">Data Cleaning RL Environment</a></h3>
+      <p>Reinforcement learning environment for data cleaning built with OpenEnv — simulates real-world data processing challenges.</p>
+      <p><code>Python</code> <code>Reinforcement Learning</code> <code>OpenEnv</code></p>
+    </td>
+    <td width="50%">
+      <h3>📈 <a href="https://github.com/AnubhavKiroula/binance-futures-trading-bot">Binance Futures Trading Bot</a></h3>
+      <p>Python trading bot for Binance Futures Testnet (USDT-M) — Market, Limit & Grid orders via CLI and Gradio UI.</p>
+      <p><code>Python</code> <code>Gradio</code> <code>Binance API</code> <code>CLI</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
