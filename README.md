@@ -18,6 +18,14 @@
 
 ---
 
+<div align="center">
+  <a href="https://github.com/AnubhavKiroula">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Contributions%20in%202026&query=%24.total.2026&url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FAnubhavKiroula%3Fformat%3Dnested&color=blueviolet" alt="GitHub Contributions" />
+  </a>
+</div>
+
+---
+
 ## 🛠️ Skills & Technologies
 
 #### 💻 Languages
