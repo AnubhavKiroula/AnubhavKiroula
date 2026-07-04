@@ -15,12 +15,23 @@
 - 🏆 **Hackathon Finalist** — passionate about building under pressure and shipping fast
 - 📚 Dedicated to **problem solving**, **backend design**, and **collaborative learning**
 - 🌱 Always eager to learn, explore new AI/ML frameworks, and collaborate on innovative ideas
-
----
+- ⚡ **Fun Fact**: I love optimizing APIs down to milliseconds and training RL agents to clean messy datasets!
 
 <div align="center">
   <a href="https://github.com/AnubhavKiroula">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Contributions%20in%202026&query=%24.total.2026&url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FAnubhavKiroula%3Fformat%3Dnested&color=blueviolet" alt="GitHub Contributions" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Total%20Contributions&query=%24.total&url=https%3A%2F%2Fraw.githubusercontent.com%2FAnubhavKiroula%2FAnubhavKiroula%2Foutput%2Fcontributions.json&color=blueviolet" alt="Total GitHub Contributions" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/AnubhavKiroula">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Contributions%20in%202026&query=%24.2026&url=https%3A%2F%2Fraw.githubusercontent.com%2FAnubhavKiroula%2FAnubhavKiroula%2Foutput%2Fcontributions.json&color=blueviolet" alt="GitHub Contributions 2026" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/AnubhavKiroula?tab=stars">
+    <img src="https://img.shields.io/github/stars/AnubhavKiroula?style=for-the-badge&color=blueviolet" alt="Total Stars" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/AnubhavKiroula?tab=followers">
+    <img src="https://img.shields.io/github/followers/AnubhavKiroula?style=for-the-badge&color=blueviolet" alt="Followers" />
   </a>
 </div>
 
@@ -88,8 +99,6 @@
   <img src="https://img.shields.io/badge/Operating_Systems-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Operating Systems" />
 </div>
 
-
-
 ---
 
 ## 🚀 Featured Projects
@@ -102,9 +111,9 @@
       <p><code>Node.js</code> <code>Flutter</code> <code>PostgreSQL</code> <code>Docker</code> <code>CI/CD</code></p>
     </td>
     <td width="50%">
-      <h3>🔐 <a href="https://github.com/AnubhavKiroula/go-auth-service">Go Auth Service</a></h3>
-      <p>Golang backend service with JWT authentication, role-based access control (RBAC), and PostgreSQL integration.</p>
-      <p><code>Go</code> <code>JWT</code> <code>PostgreSQL</code> <code>REST API</code></p>
+      <h3>⛓️ <a href="https://github.com/AnubhavKiroula/token-bucket-rate-limiter-service">Token Bucket Rate Limiter Service</a></h3>
+      <p>Distributed Token Bucket Rate Limiter Service built in Node.js/TypeScript. Uses atomic Redis Lua scripting to prevent race conditions across multi-instance load-balanced nodes.</p>
+      <p><code>Node.js</code> <code>TypeScript</code> <code>Redis</code> <code>Lua</code> <code>Distributed Systems</code></p>
     </td>
   </tr>
   <tr>
@@ -114,9 +123,9 @@
       <p><code>Python</code> <code>Reinforcement Learning</code> <code>OpenEnv</code></p>
     </td>
     <td width="50%">
-      <h3>📈 <a href="https://github.com/AnubhavKiroula/binance-futures-trading-bot">Binance Futures Trading Bot</a></h3>
-      <p>Python trading bot for Binance Futures Testnet (USDT-M) — Market, Limit & Grid orders via CLI and Gradio UI.</p>
-      <p><code>Python</code> <code>Gradio</code> <code>Binance API</code> <code>CLI</code></p>
+      <h3>💬 <a href="https://github.com/AnubhavKiroula/docmind-rag-chatbot">DocMind RAG Chatbot</a></h3>
+      <p>Chat with your documents using Retrieval-Augmented Generation (RAG) — LlamaIndex + Qdrant + Ollama/Groq. Built for FOSS Club AI/ML role.</p>
+      <p><code>Python</code> <code>LlamaIndex</code> <code>Qdrant</code> <code>Groq</code> <code>Ollama</code> <code>AI/ML</code></p>
     </td>
   </tr>
 </table>
