@@ -103,29 +103,29 @@
 
 ## 🚀 Featured Projects
 
-<table>
+<table align="center">
   <tr>
-    <td width="50%">
-      <h3>📚 <a href="https://github.com/AnubhavKiroula/Smart-Library">Smart Library System</a></h3>
-      <p>QR-based library occupancy system with real-time tracking, analytics dashboard, and hardware integration.</p>
-      <p><code>Node.js</code> <code>Flutter</code> <code>PostgreSQL</code> <code>Docker</code> <code>CI/CD</code></p>
+    <td>
+      <a href="https://github.com/AnubhavKiroula/Smart-Library">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AnubhavKiroula&repo=Smart-Library&theme=radical&hide_border=true" alt="Smart Library System" />
+      </a>
     </td>
-    <td width="50%">
-      <h3>⛓️ <a href="https://github.com/AnubhavKiroula/token-bucket-rate-limiter-service">Token Bucket Rate Limiter Service</a></h3>
-      <p>Distributed Token Bucket Rate Limiter Service built in Node.js/TypeScript. Uses atomic Redis Lua scripting to prevent race conditions across multi-instance load-balanced nodes.</p>
-      <p><code>Node.js</code> <code>TypeScript</code> <code>Redis</code> <code>Lua</code> <code>Distributed Systems</code></p>
+    <td>
+      <a href="https://github.com/AnubhavKiroula/token-bucket-rate-limiter-service">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AnubhavKiroula&repo=token-bucket-rate-limiter-service&theme=radical&hide_border=true" alt="Token Bucket Rate Limiter Service" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>🧠 <a href="https://github.com/AnubhavKiroula/data-cleaning-openenv">Data Cleaning RL Environment</a></h3>
-      <p>Reinforcement learning environment for data cleaning built with OpenEnv — simulates real-world data processing challenges.</p>
-      <p><code>Python</code> <code>Reinforcement Learning</code> <code>OpenEnv</code></p>
+    <td>
+      <a href="https://github.com/AnubhavKiroula/data-cleaning-openenv">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AnubhavKiroula&repo=data-cleaning-openenv&theme=radical&hide_border=true" alt="Data Cleaning RL Environment" />
+      </a>
     </td>
-    <td width="50%">
-      <h3>💬 <a href="https://github.com/AnubhavKiroula/docmind-rag-chatbot">DocMind RAG Chatbot</a></h3>
-      <p>Chat with your documents using Retrieval-Augmented Generation (RAG) — LlamaIndex + Qdrant + Ollama/Groq. Built for FOSS Club AI/ML role.</p>
-      <p><code>Python</code> <code>LlamaIndex</code> <code>Qdrant</code> <code>Groq</code> <code>Ollama</code> <code>AI/ML</code></p>
+    <td>
+      <a href="https://github.com/AnubhavKiroula/docmind-rag-chatbot">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AnubhavKiroula&repo=docmind-rag-chatbot&theme=radical&hide_border=true" alt="DocMind RAG Chatbot" />
+      </a>
     </td>
   </tr>
 </table>
