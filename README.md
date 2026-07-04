@@ -19,11 +19,11 @@
 
 <div align="center">
   <a href="https://github.com/AnubhavKiroula">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Total%20Contributions&query=%24.total&url=https%3A%2F%2Fraw.githubusercontent.com%2FAnubhavKiroula%2FAnubhavKiroula%2Foutput%2Fcontributions.json&color=blueviolet" alt="Total GitHub Contributions" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Total%20Contributions&query=%24.total&url=https%3A%2F%2Fraw.githubusercontent.com%2FAnubhavKiroula%2FAnubhavKiroula%2Foutput%2Fcontributions.json&color=blueviolet&cacheBust=1" alt="Total GitHub Contributions" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/AnubhavKiroula">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Contributions%20in%202026&query=%24.2026&url=https%3A%2F%2Fraw.githubusercontent.com%2FAnubhavKiroula%2FAnubhavKiroula%2Foutput%2Fcontributions.json&color=blueviolet" alt="GitHub Contributions 2026" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Contributions%20in%202026&query=%24.2026&url=https%3A%2F%2Fraw.githubusercontent.com%2FAnubhavKiroula%2FAnubhavKiroula%2Foutput%2Fcontributions.json&color=blueviolet&cacheBust=1" alt="GitHub Contributions 2026" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/AnubhavKiroula?tab=stars">
