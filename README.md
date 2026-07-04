@@ -144,6 +144,10 @@
 </div>
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnubhavKiroula&theme=react-dark&custom_title=Recent%20Contribution%20Activity&bg_color=0d1117&color=8a2be2&line=8a2be2&point=8a2be2&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+</div>
+
+<div align="center">
   <h3>🐍 Contribution Graph Snake</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnubhavKiroula/AnubhavKiroula/output/github-contribution-grid-snake-dark.svg">
@@ -184,17 +188,31 @@
 
 ## 📫 Connect with Me
 
-<div align="center">
-  <a href="mailto:anubhavkiroula1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/anubhav-kiroula-109641376">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://anubhavkiroula.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=PWA&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="mailto:anubhavkiroula1@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+      <br/>
+      <sub>Shoot an Email</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.linkedin.com/in/anubhav-kiroula-109641376">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <br/>
+      <sub>Connect on LinkedIn</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://anubhavkiroula.github.io">
+        <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+      </a>
+      <br/>
+      <sub>Visit Portfolio</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
