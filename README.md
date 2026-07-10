@@ -1,5 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:2d1b3d,60:4a1942,100:0d1117&height=240&section=header&text=Anubhav%20Kiroula&fontSize=58&fontColor=FE428E&animation=twinkling&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer%20%E2%80%94%20Python%20%7C%20Backend%20%7C%20Reinforcement%20Learning&descAlignY=58&descSize=17&descColor=a9fef7" />
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=3000&pause=1200&color=FE428E&center=true&vCenter=true&width=700&lines=Aspiring+ML%2FAI+Engineer;Backend+Developer+%26+System+Designer;Python+%7C+FastAPI+%7C+Docker+%7C+PostgreSQL;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
+</div>
+
 ---
 
 ## 🙋‍♂️ About Me
