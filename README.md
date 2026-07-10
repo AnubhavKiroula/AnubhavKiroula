@@ -169,6 +169,12 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnubhavKiroula/AnubhavKiroula/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://gh-trophy.cdnsoft.net/?username=AnubhavKiroula&theme=nord&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</div>
+
 ---
 
 ## 🏆 Achievements
