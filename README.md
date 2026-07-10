@@ -200,41 +200,37 @@
 
 ---
 
-## 📫 Connect with Me
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <a href="mailto:anubhavkiroula1@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-      </a>
-      <br/>
-      <sub>Shoot an Email</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.linkedin.com/in/anubhav-kiroula-109641376">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-      <br/>
-      <sub>Connect on LinkedIn</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://anubhavkiroula.github.io">
-        <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-      </a>
-      <br/>
-      <sub>Visit Portfolio</sub>
-    </td>
-  </tr>
-</table>
-
----
+## 🤝 Connect
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnubhavKiroula&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <a href="https://github.com/AnubhavKiroula">
+    <img src="https://img.shields.io/badge/GitHub-AnubhavKiroula-FE428E?style=for-the-badge&logo=github&logoColor=FE428E&labelColor=2d1b3d" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/anubhav-kiroula-109641376">
+    <img src="https://img.shields.io/badge/LinkedIn-Anubhav%20Kiroula-FE428E?style=for-the-badge&logo=linkedin&logoColor=FE428E&labelColor=2d1b3d" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:anubhavkiroula1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-anubhavkiroula1-FE428E?style=for-the-badge&logo=gmail&logoColor=FE428E&labelColor=2d1b3d" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://anubhavkiroula.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-anubhavkiroula.github.io-FE428E?style=for-the-badge&logo=google-chrome&logoColor=FE428E&labelColor=2d1b3d" alt="Portfolio" />
+  </a>
 </div>
 
-<p align="center">
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=true" alt="Random Dev Quote" />
+</div>
+
+<br/>
+
+<div align="center">
   <b>💡 "Keep learning, keep building!"</b><br/>
   <i>Open to collaborations, internships, and open-source contributions.</i>
-</p>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:2d1b3d,60:4a1942,100:0d1117&height=120&section=footer&animation=fadeIn" />
