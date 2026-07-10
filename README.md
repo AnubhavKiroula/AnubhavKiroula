@@ -159,12 +159,6 @@ const anubhavKiroula = {
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnubhavKiroula/AnubhavKiroula/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-<div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=AnubhavKiroula&theme=nord&no-frame=true&no-bg=true&column=7&title_color=7dd3fc" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ## 🏅 Achievements & Certifications
