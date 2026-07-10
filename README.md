@@ -30,33 +30,29 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 🧑‍💻 Who I Am
 
-- 🎓 Pursuing **B.Tech in Computer Science (AI/ML specialization)** — 2nd Year
-- 🚀 **Aspiring AI/ML Engineer** with a focus on **reinforcement learning** and **backend systems**
-- 🤝 Active member of **FOSS Club**, contributing to open-source projects & communities
-- 🏆 **Hackathon Finalist** — passionate about building under pressure and shipping fast
-- 📚 Dedicated to **problem solving**, **backend design**, and **collaborative learning**
-- 🌱 Always eager to learn, explore new AI/ML frameworks, and collaborate on innovative ideas
-- ⚡ **Fun Fact**: I love optimizing APIs down to milliseconds and training RL agents to clean messy datasets!
+<img align="right" alt="Coding" width="290" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-<div align="center">
-  <a href="https://github.com/AnubhavKiroula">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Total%20Contributions&query=%24.total&url=https%3A%2F%2Fraw.githubusercontent.com%2FAnubhavKiroula%2FAnubhavKiroula%2Foutput%2Fcontributions.json&color=blueviolet&cacheBust=1" alt="Total GitHub Contributions" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/AnubhavKiroula">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Contributions%20in%202026&query=%24.2026&url=https%3A%2F%2Fraw.githubusercontent.com%2FAnubhavKiroula%2FAnubhavKiroula%2Foutput%2Fcontributions.json&color=blueviolet&cacheBust=1" alt="GitHub Contributions 2026" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/AnubhavKiroula?tab=stars">
-    <img src="https://img.shields.io/github/stars/AnubhavKiroula?style=for-the-badge&color=blueviolet" alt="Total Stars" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/AnubhavKiroula?tab=followers">
-    <img src="https://img.shields.io/github/followers/AnubhavKiroula?style=for-the-badge&color=blueviolet" alt="Followers" />
-  </a>
-</div>
+```typescript
+const anubhavKiroula = {
+  title:    "Aspiring AI/ML Engineer & Backend Developer",
+  stack:    {
+    languages: ["Python", "JavaScript", "TypeScript", "C", "C++", "Go", "Dart"],
+    frontend:  ["React.js", "Flutter", "HTML5", "CSS3"],
+    backend:   ["Node.js", "Express.js", "FastAPI"],
+    mlAndAI:   ["NumPy", "Pandas", "Scikit-learn", "HuggingFace", "RL"],
+    databases: ["PostgreSQL", "MongoDB", "MySQL", "SQLite", "Supabase"],
+    devops:    ["Docker", "Git", "GitHub Actions", "Linux", "CI/CD"],
+  },
+  education:  "B.Tech CSE (AI/ML) — 2nd Year · CGPA 9.33/10",
+  achievement: "Meta × PyTorch National Hackathon Finalist (Top 800/52K+)",
+  community:  "FOSS Club Member · Open Source Contributor",
+  openTo:     "Internships · Collaborations · Open Source",
+};
+```
+
+<br clear="right"/>
 
 ---
 
@@ -172,22 +168,24 @@
   </picture>
 </div>
 
-<div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=AnubhavKiroula&theme=nord&no-frame=true&no-bg=true&column=7&title_color=FE428E" alt="GitHub Trophies" />
-</div>
-
 ---
 
-## 🏅 Achievements & Certifications
+## 🏆 Achievements
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🥇%20META%20×%20PYTORCH-Hackathon%20Finalist%20(Top%20800%2F52K%2B)-FE428E?style=for-the-badge&labelColor=2d1b3d" alt="Hackathon Finalist" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/🎓%20CGPA%209.33%2F10-Graphic%20Era%20Hill%20University-FE428E?style=for-the-badge&labelColor=2d1b3d" alt="CGPA" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/📜%20LLM%20ENGINEERING-Prompt%20Engineering%20Specialization%20·%20Udemy-FE428E?style=for-the-badge&labelColor=2d1b3d" alt="LLM Engineering" />
-</div>
+<table>
+  <tr>
+    <td>🥇</td>
+    <td><b>Meta × PyTorch National Hackathon Finalist</b> — Top 800 of 52,000+ developers nationally; built a PyTorch-based solution for efficient model deployment.</td>
+  </tr>
+  <tr>
+    <td>🎓</td>
+    <td><b>CGPA 9.33/10</b> — Consistently among top performers in B.Tech cohort at Graphic Era Hill University.</td>
+  </tr>
+  <tr>
+    <td>📜</td>
+    <td><b>LLM Engineering & Prompt Engineering Specialization (Udemy)</b> — Large language models, prompt optimization, and AI application development.</td>
+  </tr>
+</table>
 
 ---
 
