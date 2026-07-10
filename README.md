@@ -197,8 +197,8 @@ const anubhavKiroula = {
     <img src="https://img.shields.io/badge/Gmail-anubhavkiroula1-7dd3fc?style=for-the-badge&logo=gmail&logoColor=7dd3fc&labelColor=0a2a3a" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://anubhavkiroula.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-anubhavkiroula.github.io-7dd3fc?style=for-the-badge&logo=google-chrome&logoColor=7dd3fc&labelColor=0a2a3a" alt="Portfolio" />
+  <a href="https://anubhav-kiroula-portfolio-website.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-anubhav--kiroula--portfolio--website.vercel.app-7dd3fc?style=for-the-badge&logo=google-chrome&logoColor=7dd3fc&labelColor=0a2a3a" alt="Portfolio" />
   </a>
 </div>
 
