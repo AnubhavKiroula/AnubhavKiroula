@@ -172,6 +172,11 @@
   </picture>
 </div>
 
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=AnubhavKiroula&theme=nord&no-frame=true&no-bg=true&column=7&title_color=FE428E" alt="GitHub Trophies" />
+</div>
+
 ---
 
 ## 🏆 Achievements
