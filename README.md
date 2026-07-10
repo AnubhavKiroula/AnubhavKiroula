@@ -45,7 +45,7 @@ const anubhavKiroula = {
     databases: ["PostgreSQL", "MongoDB", "MySQL", "SQLite", "Supabase"],
     devops:    ["Docker", "Git", "GitHub Actions", "Linux", "CI/CD"],
   },
-  education:  "B.Tech CSE (AI/ML) — 2nd Year · CGPA 9.33/10",
+  education:  "B.Tech CSE (AI/ML) — 2nd Year · CGPA 9.18/10",
   achievement: "Meta × PyTorch National Hackathon Finalist (Top 800/52K+)",
   community:  "FOSS Club Member · Open Source Contributor",
   openTo:     "Internships · Collaborations · Open Source",
@@ -179,7 +179,7 @@ const anubhavKiroula = {
   </tr>
   <tr>
     <td>🎓</td>
-    <td><b>CGPA 9.33/10</b> — Consistently among top performers in B.Tech cohort at Graphic Era Hill University.</td>
+    <td><b>CGPA 9.18/10</b> — Consistently among top performers in B.Tech cohort at Graphic Era Hill University.</td>
   </tr>
   <tr>
     <td>📜</td>
