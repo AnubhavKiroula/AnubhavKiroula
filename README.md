@@ -156,7 +156,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnubhavKiroula&hide_border=true&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AnubhavKiroula&theme=nord&border=FE428E&ring=FE428E&fire=FE428E&currStreakLabel=FE428E&sideLabels=a9fef7&dates=a9fef7&background=0d1117" alt="GitHub Streak" />
 </div>
 
 <div align="center">
