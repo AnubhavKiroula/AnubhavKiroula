@@ -160,7 +160,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnubhavKiroula&theme=react-dark&custom_title=Recent%20Contribution%20Activity&bg_color=0d1117&color=8a2be2&line=8a2be2&point=8a2be2&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnubhavKiroula&theme=react-dark&custom_title=Recent%20Contribution%20Activity&bg_color=0d1117&color=FE428E&line=FE428E&point=a9fef7&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </div>
 
 <div align="center">
