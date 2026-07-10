@@ -151,8 +151,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=AnubhavKiroula&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AnubhavKiroula&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api?username=AnubhavKiroula&show_icons=true&theme=nord&border_color=FE428E&title_color=FE428E&icon_color=FE428E&text_color=a9fef7&bg_color=0d1117&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AnubhavKiroula&layout=compact&theme=nord&border_color=FE428E&title_color=FE428E&icon_color=FE428E&text_color=a9fef7&bg_color=0d1117&langs_count=8" alt="Top Languages" height="180" />
 </div>
 
 <div align="center">
