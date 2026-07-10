@@ -123,24 +123,24 @@
   <tr>
     <td>
       <a href="https://github.com/AnubhavKiroula/Smart-Library">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AnubhavKiroula&repo=Smart-Library&theme=radical&hide_border=true" alt="Smart Library System" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AnubhavKiroula&repo=Smart-Library&theme=nord&border_color=FE428E&title_color=FE428E&icon_color=FE428E&text_color=a9fef7&bg_color=0d1117" alt="Smart Library System" />
       </a>
     </td>
     <td>
       <a href="https://github.com/AnubhavKiroula/token-bucket-rate-limiter-service">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AnubhavKiroula&repo=token-bucket-rate-limiter-service&theme=radical&hide_border=true" alt="Token Bucket Rate Limiter Service" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AnubhavKiroula&repo=token-bucket-rate-limiter-service&theme=nord&border_color=FE428E&title_color=FE428E&icon_color=FE428E&text_color=a9fef7&bg_color=0d1117" alt="Token Bucket Rate Limiter Service" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/AnubhavKiroula/data-cleaning-openenv">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AnubhavKiroula&repo=data-cleaning-openenv&theme=radical&hide_border=true" alt="Data Cleaning RL Environment" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AnubhavKiroula&repo=data-cleaning-openenv&theme=nord&border_color=FE428E&title_color=FE428E&icon_color=FE428E&text_color=a9fef7&bg_color=0d1117" alt="Data Cleaning RL Environment" />
       </a>
     </td>
     <td>
       <a href="https://github.com/AnubhavKiroula/docmind-rag-chatbot">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AnubhavKiroula&repo=docmind-rag-chatbot&theme=radical&hide_border=true" alt="DocMind RAG Chatbot" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AnubhavKiroula&repo=docmind-rag-chatbot&theme=nord&border_color=FE428E&title_color=FE428E&icon_color=FE428E&text_color=a9fef7&bg_color=0d1117" alt="DocMind RAG Chatbot" />
       </a>
     </td>
   </tr>
