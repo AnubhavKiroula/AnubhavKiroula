@@ -4,6 +4,30 @@
   <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=3000&pause=1200&color=FE428E&center=true&vCenter=true&width=700&lines=Aspiring+ML%2FAI+Engineer;Backend+Developer+%26+System+Designer;Python+%7C+FastAPI+%7C+Docker+%7C+PostgreSQL;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-AI%2FML%20%26%20Backend%20Developer%20Roles-FE428E?style=for-the-badge&labelColor=2d1b3d&color=4a1942" alt="Open to Work" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/AnubhavKiroula">
+    <img src="https://komarev.com/ghpvc/?username=AnubhavKiroula&label=Profile+Views&color=FE428E&style=flat-square&labelColor=2d1b3d" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/AnubhavKiroula?tab=followers">
+    <img src="https://img.shields.io/github/followers/AnubhavKiroula?label=Followers&style=flat-square&color=FE428E&labelColor=2d1b3d" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/anubhav-kiroula-109641376">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-FE428E?style=flat-square&logo=linkedin&logoColor=FE428E&labelColor=2d1b3d" />
+  </a>
+  &nbsp;
+  <a href="mailto:anubhavkiroula1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-anubhavkiroula1%40gmail.com-FE428E?style=flat-square&logo=gmail&logoColor=FE428E&labelColor=2d1b3d" />
+  </a>
+</div>
+
 ---
 
 ## 🙋‍♂️ About Me
