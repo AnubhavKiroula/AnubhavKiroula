@@ -152,6 +152,12 @@
 </div>
 
 <div align="center">
+  <a href="https://leetcode.com/Anubhav_2007">
+    <img src="https://leetcard.jacoblin.cool/Anubhav_2007?theme=nord" alt="LeetCode Stats" />
+  </a>
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnubhavKiroula&theme=react-dark&custom_title=Recent%20Contribution%20Activity&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=bae6fd&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </div>
 
@@ -163,6 +169,12 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnubhavKiroula/AnubhavKiroula/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://gh-trophy.cdnsoft.net/?username=AnubhavKiroula&theme=nord&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</div>
+
 ---
 
 ## 🏆 Achievements
