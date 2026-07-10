@@ -18,14 +18,6 @@
   <a href="https://github.com/AnubhavKiroula?tab=followers">
     <img src="https://img.shields.io/github/followers/AnubhavKiroula?label=Followers&style=flat-square&color=7dd3fc&labelColor=0a2a3a" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/anubhav-kiroula-109641376">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=flat-square&logo=linkedin&logoColor=7dd3fc&labelColor=0a2a3a" />
-  </a>
-  &nbsp;
-  <a href="mailto:anubhavkiroula1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-anubhavkiroula1%40gmail.com-7dd3fc?style=flat-square&logo=gmail&logoColor=7dd3fc&labelColor=0a2a3a" />
-  </a>
 </div>
 
 ---
@@ -166,6 +158,11 @@ const anubhavKiroula = {
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnubhavKiroula/AnubhavKiroula/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnubhavKiroula/AnubhavKiroula/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=AnubhavKiroula&theme=nord&no-frame=true&no-bg=true&column=7&title_color=7dd3fc" alt="GitHub Trophies" />
 </div>
 
 ---
