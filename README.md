@@ -22,29 +22,33 @@
 
 ---
 
-## 🧑‍💻 Who I Am
+## 🙋‍♂️ About Me
 
-<img align="right" alt="Coding" width="290" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+- 🎓 Pursuing **B.Tech in Computer Science (AI/ML specialization)** — 2nd Year
+- 🚀 **Aspiring AI/ML Engineer** with a focus on **reinforcement learning** and **backend systems**
+- 🤝 Active member of **FOSS Club**, contributing to open-source projects & communities
+- 🏆 **Hackathon Finalist** — passionate about building under pressure and shipping fast
+- 📚 Dedicated to **problem solving**, **backend design**, and **collaborative learning**
+- 🌱 Always eager to learn, explore new AI/ML frameworks, and collaborate on innovative ideas
+- ⚡ **Fun Fact**: I love optimizing APIs down to milliseconds and training RL agents to clean messy datasets!
 
-```typescript
-const anubhavKiroula = {
-  title:    "Aspiring AI/ML Engineer & Backend Developer",
-  stack:    {
-    languages: ["Python", "JavaScript", "TypeScript", "C", "C++", "Go", "Dart"],
-    frontend:  ["React.js", "Flutter", "HTML5", "CSS3"],
-    backend:   ["Node.js", "Express.js", "FastAPI"],
-    mlAndAI:   ["NumPy", "Pandas", "Scikit-learn", "HuggingFace", "RL"],
-    databases: ["PostgreSQL", "MongoDB", "MySQL", "SQLite", "Supabase"],
-    devops:    ["Docker", "Git", "GitHub Actions", "Linux", "CI/CD"],
-  },
-  education:  "B.Tech CSE (AI/ML) — 2nd Year · CGPA 9.18/10",
-  achievement: "Meta × PyTorch National Hackathon Finalist (Top 800/52K+)",
-  community:  "FOSS Club Member · Open Source Contributor",
-  openTo:     "Internships · Collaborations · Open Source",
-};
-```
-
-<br clear="right"/>
+<div align="center">
+  <a href="https://github.com/AnubhavKiroula">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Total%20Contributions&query=%24.total&url=https%3A%2F%2Fraw.githubusercontent.com%2FAnubhavKiroula%2FAnubhavKiroula%2Foutput%2Fcontributions.json&color=7dd3fc&cacheBust=1" alt="Total GitHub Contributions" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/AnubhavKiroula">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Contributions%20in%202026&query=%24.2026&url=https%3A%2F%2Fraw.githubusercontent.com%2FAnubhavKiroula%2FAnubhavKiroula%2Foutput%2Fcontributions.json&color=7dd3fc&cacheBust=1" alt="GitHub Contributions 2026" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/AnubhavKiroula?tab=stars">
+    <img src="https://img.shields.io/github/stars/AnubhavKiroula?style=for-the-badge&color=7dd3fc" alt="Total Stars" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/AnubhavKiroula?tab=followers">
+    <img src="https://img.shields.io/github/followers/AnubhavKiroula?style=for-the-badge&color=7dd3fc" alt="Followers" />
+  </a>
+</div>
 
 ---
 
