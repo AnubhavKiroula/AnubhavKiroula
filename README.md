@@ -170,22 +170,15 @@ const anubhavKiroula = {
 
 ---
 
-## 🏆 Achievements
+## 🏅 Achievements & Certifications
 
-<table>
-  <tr>
-    <td>🥇</td>
-    <td><b>Meta × PyTorch National Hackathon Finalist</b> — Top 800 of 52,000+ developers nationally; built a PyTorch-based solution for efficient model deployment.</td>
-  </tr>
-  <tr>
-    <td>🎓</td>
-    <td><b>CGPA 9.18/10</b> — Consistently among top performers in B.Tech cohort at Graphic Era Hill University.</td>
-  </tr>
-  <tr>
-    <td>📜</td>
-    <td><b>LLM Engineering & Prompt Engineering Specialization (Udemy)</b> — Large language models, prompt optimization, and AI application development.</td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://img.shields.io/badge/🥇%20META%20×%20PYTORCH-Hackathon%20Finalist%20(Top%20800%2F52K%2B)-7dd3fc?style=for-the-badge&labelColor=0a2a3a" alt="Hackathon Finalist" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/🎓%20CGPA%209.18%2F10-Graphic%20Era%20Hill%20University-7dd3fc?style=for-the-badge&labelColor=0a2a3a" alt="CGPA" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/📜%20LLM%20ENGINEERING-Prompt%20Engineering%20Specialization%20·%20Udemy-7dd3fc?style=for-the-badge&labelColor=0a2a3a" alt="LLM Engineering" />
+</div>
 
 ---
 
