@@ -30,92 +30,89 @@
 
 ---
 
-## 🧑‍💻 Who I Am
+## 🙋‍♂️ About Me
 
-<img align="right" alt="Coding" width="290" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+- 🎓 Pursuing **B.Tech in Computer Science (AI/ML specialization)** — 2nd Year
+- 🚀 **Aspiring AI/ML Engineer** with a focus on **reinforcement learning** and **backend systems**
+- 🤝 Active member of **FOSS Club**, contributing to open-source projects & communities
+- 🏆 **Hackathon Finalist** — passionate about building under pressure and shipping fast
+- 📚 Dedicated to **problem solving**, **backend design**, and **collaborative learning**
+- 🌱 Always eager to learn, explore new AI/ML frameworks, and collaborate on innovative ideas
+- ⚡ **Fun Fact**: I love optimizing APIs down to milliseconds and training RL agents to clean messy datasets!
 
-```typescript
-const anubhavKiroula = {
-  title:    "Aspiring AI/ML Engineer & Backend Developer",
-  stack:    {
-    languages: ["Python", "JavaScript", "TypeScript", "C", "C++", "Go", "Dart"],
-    frontend:  ["React.js", "Flutter", "HTML5", "CSS3"],
-    backend:   ["Node.js", "Express.js", "FastAPI"],
-    mlAndAI:   ["NumPy", "Pandas", "Scikit-learn", "HuggingFace", "RL"],
-    databases: ["PostgreSQL", "MongoDB", "MySQL", "SQLite", "Supabase"],
-    devops:    ["Docker", "Git", "GitHub Actions", "Linux", "CI/CD"],
-  },
-  education:  "B.Tech CSE (AI/ML) — 2nd Year · CGPA 9.33/10",
-  achievement: "Meta × PyTorch National Hackathon Finalist (Top 800/52K+)",
-  community:  "FOSS Club Member · Open Source Contributor",
-  openTo:     "Internships · Collaborations · Open Source",
-};
-```
-
-<br clear="right"/>
+<div align="center">
+  <a href="https://github.com/AnubhavKiroula">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Total%20Contributions&query=%24.total&url=https%3A%2F%2Fraw.githubusercontent.com%2FAnubhavKiroula%2FAnubhavKiroula%2Foutput%2Fcontributions.json&color=blueviolet&cacheBust=1" alt="Total GitHub Contributions" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/AnubhavKiroula">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Contributions%20in%202026&query=%24.2026&url=https%3A%2F%2Fraw.githubusercontent.com%2FAnubhavKiroula%2FAnubhavKiroula%2Foutput%2Fcontributions.json&color=blueviolet&cacheBust=1" alt="GitHub Contributions 2026" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/AnubhavKiroula?tab=stars">
+    <img src="https://img.shields.io/github/stars/AnubhavKiroula?style=for-the-badge&color=blueviolet" alt="Total Stars" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/AnubhavKiroula?tab=followers">
+    <img src="https://img.shields.io/github/followers/AnubhavKiroula?style=for-the-badge&color=blueviolet" alt="Followers" />
+  </a>
+</div>
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
-#### 💻 Languages
+### 🔗 Languages
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,go,dart,html,css&theme=dark" alt="Languages" />
 </div>
 
-#### 🧩 Frameworks & Libraries
+### 🔗 Frontend
 <div align="center">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://skillicons.dev/icons?i=react,flutter&theme=dark" alt="Frontend" />
 </div>
 
-#### 🔧 DevOps & Tools
+### 🔗 Backend & Infra
 <div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,docker,postgres&theme=dark" alt="Backend & Infra" />
 </div>
 
-#### 🗄️ Databases
+### 🔗 Databases
 <div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,supabase&theme=dark" alt="Databases" />
 </div>
 
-#### 🤖 ML & Data
+### 🔗 ML & AI
 <div align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Reinforcement Learning" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=2d1b3d" height="46" alt="NumPy" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=2d1b3d" height="46" alt="Pandas" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=2d1b3d" height="46" alt="Scikit-learn" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=2d1b3d" height="46" alt="HuggingFace" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=2d1b3d" height="46" alt="RL" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&labelColor=2d1b3d" height="46" alt="Matplotlib" />
 </div>
 
-#### 🧠 Concepts
+### 🔗 DevOps & Tools
 <div align="center">
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/DSA-4A90D9?style=for-the-badge" alt="Data Structures & Algorithms" />
-  <img src="https://img.shields.io/badge/OOP-8B5CF6?style=for-the-badge" alt="OOP" />
-  <img src="https://img.shields.io/badge/Computer_Networks-0A66C2?style=for-the-badge" alt="Computer Networks" />
-  <img src="https://img.shields.io/badge/Operating_Systems-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Operating Systems" />
+  <img src="https://skillicons.dev/icons?i=git,docker,github,githubactions,linux,vscode&theme=dark" alt="DevOps & Tools" />
+</div>
+
+### 🔗 Concepts
+<div align="center">
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white&labelColor=2d1b3d" height="46" alt="REST APIs" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/DSA-4A90D9?style=flat-square&labelColor=2d1b3d" height="46" alt="DSA" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OOP-8B5CF6?style=flat-square&labelColor=2d1b3d" height="46" alt="OOP" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Computer%20Networks-0A66C2?style=flat-square&labelColor=2d1b3d" height="46" alt="Computer Networks" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Operating%20Systems-333333?style=flat-square&logo=linux&logoColor=white&labelColor=2d1b3d" height="46" alt="OS" />
 </div>
 
 ---
