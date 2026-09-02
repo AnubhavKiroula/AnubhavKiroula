@@ -114,25 +114,20 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/AnubhavKiroula/Smart-Library">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AnubhavKiroula&repo=Smart-Library&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117" alt="Smart Library System" />
-      </a>
-    </td>
-    <td>
       <a href="https://github.com/AnubhavKiroula/token-bucket-rate-limiter-service">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=AnubhavKiroula&repo=token-bucket-rate-limiter-service&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117" alt="Token Bucket Rate Limiter Service" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AnubhavKiroula/data-cleaning-openenv">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AnubhavKiroula&repo=data-cleaning-openenv&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117" alt="Data Cleaning RL Environment" />
       </a>
     </td>
     <td>
       <a href="https://github.com/AnubhavKiroula/docmind-rag-chatbot">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=AnubhavKiroula&repo=docmind-rag-chatbot&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117" alt="DocMind RAG Chatbot" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/AnubhavKiroula/data-cleaning-openenv">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AnubhavKiroula&repo=data-cleaning-openenv&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117" alt="Data Cleaning RL Environment" />
       </a>
     </td>
   </tr>
@@ -158,7 +153,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnubhavKiroula&theme=react-dark&custom_title=Recent%20Contribution%20Activity&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=bae6fd&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://activity-graph.vercel.app/graph?username=AnubhavKiroula&theme=react-dark&custom_title=Recent%20Contribution%20Activity&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=bae6fd&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </div>
 
 <div align="center">
@@ -172,7 +167,7 @@
 
 <div align="center">
   <h3>🏆 GitHub Trophies</h3>
-  <img src="https://gh-trophy.cdnsoft.net/?username=AnubhavKiroula&theme=nord&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=AnubhavKiroula&theme=nord&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 ---
