@@ -114,25 +114,20 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/AnubhavKiroula/Smart-Library">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AnubhavKiroula&repo=Smart-Library&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117" alt="Smart Library System" />
-      </a>
-    </td>
-    <td>
       <a href="https://github.com/AnubhavKiroula/token-bucket-rate-limiter-service">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=AnubhavKiroula&repo=token-bucket-rate-limiter-service&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117" alt="Token Bucket Rate Limiter Service" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AnubhavKiroula/data-cleaning-openenv">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AnubhavKiroula&repo=data-cleaning-openenv&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117" alt="Data Cleaning RL Environment" />
       </a>
     </td>
     <td>
       <a href="https://github.com/AnubhavKiroula/docmind-rag-chatbot">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=AnubhavKiroula&repo=docmind-rag-chatbot&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117" alt="DocMind RAG Chatbot" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/AnubhavKiroula/data-cleaning-openenv">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AnubhavKiroula&repo=data-cleaning-openenv&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117" alt="Data Cleaning RL Environment" />
       </a>
     </td>
   </tr>
